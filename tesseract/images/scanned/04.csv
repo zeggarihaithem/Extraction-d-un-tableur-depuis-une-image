@@ -1,0 +1,19 @@
+Semestre,Nature,Code,Coef,Institulé,,Coef,Matières,,UE,,Semester,
+,,,,,,,Notes,Session,Notes,Session,Notes,Session
+S1,UE fondamentale,UEF1.1.1,9,RES1,Réseaux 1,4,10.65,Février,7.79,Février,10.08,Février
+,,,,SYS1,Systèmes d'exploitation 1,5,5.5,Février,,,,,,,,,,,
+,UE fondamentale,UEF1.1.2,9,IGL,Introduction au génie logiciel,5,10,Février,10.84,Février,,,,,,,,,
+,,,,THP,Théorie des langues de programmation et application,4,11.9,Février,,,,,,,,,,,
+,UE Méthodologique,UEM1.1,10,ANUM,Analyse Numérique,4,11.5,Février,11.05,Février,,,,,,,,,
+,,,,ORG,Analyse des organisation,3,14.3,Février,,,,,,,,,,,
+,,,,PRO,Recherche opérationnelle : graphes et algorithmes,3,7.2,Février,,,,,,,,,,,
+,UE Transversale,UET1.1,2,LANG1,Langue anglaise 1,2,12.17,Février,12.17,Février,,,,,,,,,
+s2,UE fondamentale,UEF1.21,11,ARCH,Architecture,4,13.33,Juin,11.19,Juin,12.34,Juin
+,,,,RES2,Réseaux 2,3,12.11,Juin,,,,,,,,,,,
+,,,,SYS2,Systèmes d'exploitation 2,4,8.35,Juin,,,,,,,,,,,
+,UE fondamentale,UEF1.2.2,10,BDD,Bases des données,5,12,Juin,12.4,Juin,,,,,,,,,
+,,,,MCSI,Méthodologie d'analyse et conception de systèmes d'information,5,12.8,Juin,,,,,,,,,,,
+,UE Méthodologique,UEM1.2,7,CPROJ,Conduite de projets,3,10.88,Juin,13.45,Juin,,,,,,,,,
+,,,,PROJ,Projet,3,15.51,Juin,,,,,,,,,,,
+,,,,SEC,Introducton à la sécurité informatique,1,15,Juin,,,,,,,,,,,
+,UE Transversale,UET1.2,2,LANG2,Langue anglaise 2,2,14.5,Juin,14.5,Juin,,,,,,,,,
